@@ -1,0 +1,32 @@
+@media screen and (max-width:1200px){
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 23px;
+    }
+    .nav-left {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+   
+
+    .content-right {
+        display: none;
+    }
+.homearticle{
+    display: flex;
+    flex-direction: column;
+}
+.homeartimg{
+    justify-content: center;
+}
+.content-left{
+    font-size: 10px;
+    width: 100%;
+}
+.mob{
+    font-size: 13px;
+    margin-left: 30px;
+
+}
+}
